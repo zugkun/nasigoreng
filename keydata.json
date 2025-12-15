@@ -1,0 +1,22 @@
+{
+    "keys": [
+        "freesandwich6994",
+        "testkey123"
+    ],
+    "premium_keys": [
+        {
+            "key": "premium2025",
+            "expires": 1735689600,
+            "note": "Expires Jan 1, 2025"
+        }
+    ],
+    "whitelist": [
+        "YourUsername"
+    ],
+    "blacklist": [],
+    "info": {
+        "last_updated": "2024-12-16",
+        "version": "1.0",
+        "discord": "test"
+    }
+}
