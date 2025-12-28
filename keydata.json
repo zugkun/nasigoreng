@@ -6,7 +6,7 @@
         {
             "key": "premium2025",
             "expires": 1735689600,
-            "note": "Expires Jan 1, 2025"
+            "note": "Expires Jan 1, 2026"
         }
     ],
     "whitelist": [
@@ -20,3 +20,4 @@
     }
 
 }
+
